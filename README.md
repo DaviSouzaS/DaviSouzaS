@@ -4,7 +4,7 @@
 
 ## Sobre mim:
 
-- 👨‍💻 Desenvolvedor Web Front-end 
+- 👨‍💻 Desenvolvedor Web Full Stack
 <br>
 
 - 💻 Foco em ReactJS e TypeScript 
