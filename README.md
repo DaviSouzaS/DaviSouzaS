@@ -7,7 +7,7 @@
 - 👨‍💻 Desenvolvedor Web Full Stack
 <br>
 
-- 💻 Foco em ReactJS e NodeJs
+- 📈 Progresso constante 
 <br>
 
 - 📚 Estudante em formação de Desenvolvimento Web Full Stack na Kenzie Academy Brasil
