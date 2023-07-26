@@ -17,8 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSouzaS&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
-
 ## Outras tecnologias, bibliotecas e ferramentas que utilizo: 
 
 ![!TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -39,8 +37,6 @@
 ![!Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![!Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![!Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<hr>
 
 ## Status do GitHub
 
