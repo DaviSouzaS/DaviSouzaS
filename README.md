@@ -1,6 +1,6 @@
 ## Olá, meu nome é Davi Santana 🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-s-s/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](daavisouza.santana@gmail.com)
 ## Sobre mim:
 
 <p>Sou um Desenvolvedor Full Stack em constante evolução, capaz de criar soluções funcionais em todas as etapas do desenvolvimento. Com domínio no Front-end e Back-end, tenho a capacidade de projetar interfaces intuitivas e interativas, enquanto crio APIs robustas para garantir uma comunicação eficiente. Minha experiência em bancos de dados SQL permite uma gestão eficiente de informações cruciais. Além disso, possuo conhecimentos em Docker para facilitar a implantação de um ambiente de desenvolvimento eficiente. Sou apaixonado por aprender e sempre me atualizo para enfrentar novos desafios.</p>
