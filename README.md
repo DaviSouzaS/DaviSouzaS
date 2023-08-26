@@ -1,11 +1,11 @@
-## Olá, meu nome é Davi Santana 🖐️
+## Hello, my name is David Santana 🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-s-s/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](daavisouza.santana@gmail.com)
-## Sobre mim:
+## About me:
 
-<p>Sou um Desenvolvedor Full Stack em constante evolução, capaz de criar soluções funcionais em todas as etapas do desenvolvimento. Com domínio no Front-end e Back-end, tenho a capacidade de projetar interfaces intuitivas e interativas, enquanto crio APIs robustas para garantir uma comunicação eficiente. Minha experiência em bancos de dados SQL permite uma gestão eficiente de informações cruciais. Além disso, possuo conhecimentos em Docker para facilitar a implantação de um ambiente de desenvolvimento eficiente. Sou apaixonado por aprender e sempre me atualizo para enfrentar novos desafios.</p>
+<p>I am an ever-evolving Full Stack Developer, capable of crafting functional solutions across all stages of development. With expertise in both Front-end and Back-end, I possess the ability to design intuitive and interactive interfaces while creating robust APIs to ensure efficient communication. My experience in SQL databases enables efficient management of crucial information. Moreover, I hold proficiency in Docker to facilitate the deployment of an efficient development environment. I am passionate about learning and consistently stay updated to tackle new challenges.</p>
 
-## Principais tecnologias que utilizo:
+## Main technologies:
 
 ![!JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![!React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSouzaS&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## Outras tecnologias, bibliotecas e ferramentas que utilizo: 
+## Other technologies, libraries and tools: 
 
 ![!Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![!Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -38,6 +38,6 @@
 ![!Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![!Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Status do GitHub
+## GitHub Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSouzaS&show_icons=true&theme=dark)
